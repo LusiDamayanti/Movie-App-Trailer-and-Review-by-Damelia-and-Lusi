@@ -1,0 +1,21 @@
+Anggota Kelompok :
+- Damelia (1803421013)
+- Lusi Damayanti (1803421021)
+Kelas : BM - 5B
+PROJECT AKHIR MOBILE APPLICATION
+
+Referensi Project :
+- Course Udemy : Kotlin Android Developer 101 Bahasa Indonesia (https://www.udemy.com/course/kotlin-android-developer-101-bahasa-indonesia/?src=sac&kw=android)
+- TMDB : 
+https://developers.themoviedb.org/4/getting-started/authorization 
+https://developers.themoviedb.org/3/movies/get-movie-details 
+- https://developer.android.com/reference/kotlin/androidx/appcompat/app/ActionBar
+- https://www.youtube.com/watch?v=LHRuHmJs9Lo
+
+Link Github :
+- https://github.com/cerdasbersamadamelia/Movie-App-Trailer-and-Review-By-Damelia-and-Lusi
+- https://github.com/LusiDamayanti/Movie-App-Trailer-and-Review-by-Damelia-and-Lusi
+
+Link Youtube :
+- https://youtu.be/AqAQ7QO7HVc (Youtube Damel)
+- https://youtu.be/htBg-UNM2Bs (Youtube Lusi)
